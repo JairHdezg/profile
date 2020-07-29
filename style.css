@@ -35,7 +35,7 @@ a {
 i:hover {
   color: #8C7558;
   text-decoration: none;
-  font-size: 30px
+  font-size: 35px
 }
 
 .profile-circle {
@@ -60,6 +60,7 @@ i:hover {
 }
 
 .information:hover {
+  background-color: #8C7558;
   font-size: 20px;
   color: #D9D9D9;
 }
