@@ -16,6 +16,7 @@ h1 {
 
 i {
   display: inline;
+  transition: 400ms;
 }
 
 h2, h3 {
@@ -31,10 +32,10 @@ a {
   transition: 400ms;
 }
 
-a:hover {
+i:hover {
   color: #8C7558;
   text-decoration: none;
-  font-size: 24px
+  font-size: 30px
 }
 
 .profile-circle {
